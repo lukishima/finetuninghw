@@ -1,0 +1,35 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Include the total cooking time at the end of your recipe. You may use your imagination to create a recipe with these ingredients. For example, you might create a rice and chicken casserole with broccoli on the side. The recipe should be easy to follow, with clear instructions and no grammatical errors. It should be written in the present tense, and should be free of spelling errors. Include a title for your recipe, such as \"Broccoli and Chicken Rice Casserole.\"
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Include the number of servings and the amount of time it takes to prepare and cook this dish. Use the following format: "Preparation: Combine 2 cups flour, 1 cup sugar, and 1/2 cup butter in a large bowl. Stir until crumbly. Press into a 9 x 13-inch pan. Bake at 350\u00b0 for 15 minutes."]
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Be specific. Include the number of servings per recipe. Do not use images or links in your recipe post.
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Use the following format: [Step 1: Instructions for Step 1] [Step 2: Instructions for Step 2] [Step 3: Instructions for Step 3] [Step 4: Instructions for Step 4] [Step 5: Instructions for Step 5] [Step 6: Instructions for Step 6] [Step 7: Instructions for Step 7] [Step 8: Instructions for Step 8] [Step 9: Instructions for Step 9] [Step 10: Instructions for Step 10] [Step 11: Instructions for Step 11] [Step 12: Instructions for Step 12] [Step 13: Instructions for Step 13] [Step 14: Instructions for Step 14] [Step 15: Instructions for Step 15] [Step 16: Instructions for Step 16] [Step 17: Instructions for Step 17] [Step 18: Instructions for Step
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. For example: "1. Boil water in a pot. 2. Add pasta to boiling water. 3. Cook until pasta is done. 4. Drain pasta. 5. Add olive oil and parmesan cheese. 6. Mix well."]
+
+------------------------------------------------------------

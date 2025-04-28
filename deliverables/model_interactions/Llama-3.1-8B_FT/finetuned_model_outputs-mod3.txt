@@ -1,0 +1,366 @@
+Prompt 1:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- chicken
+- rice
+- broccoli
+
+Model Output:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- chicken
+- rice
+- broccoli
+- soy sauce
+- salt
+- pepper
+- garlic powder
+- ground ginger
+- sesame oil
+
+Steps:
+1. Preheat oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish with cooking spray.
+2. In a large bowl, combine chicken, rice, broccoli, soy sauce, salt, pepper, garlic powder, and ginger. Mix well. Pour mixture into the prepared baking dish.
+3. Bake in the preheated oven for 30 minutes, or until chicken is cooked through and rice is tender. Drizzle sesame oil over the top before serving."
+
+------------------------------------------------------------
+Prompt 2:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- flour
+- sugar
+- butter
+
+Model Output:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- flour
+- sugar
+- butter
+- vanilla extract
+- baking powder
+- salt
+- cinnamon
+- allspice
+- nutmeg
+- eggs
+- milk
+
+Steps:
+1. Preheat the oven to 350 degrees Fahrenheit.
+2. In a large bowl, combine flour, sugar, butter, vanilla extract, baking powder, salt, cinnamon, allspice, and nutmeg.
+3. Add eggs and milk to the dry ingredients and mix until well combined.
+4. Pour the batter into a greased 9x13-inch baking dish.
+5. Bake for 35-40 minutes until a toothpick inserted into the center comes out clean.
+
+------------------------------------------------------------
+Prompt 3:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- tomato
+- basil
+- mozzarella
+
+Model Output:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- tomato
+- basil
+- mozzarella cheese
+- olive oil
+- salt
+- pepper
+
+Steps:
+1. Preheat the oven to 400°F (200°C).
+2. Slice the tomatoes in half and place them cut side up on a baking sheet. Sprinkle with salt and pepper.
+3. Add the sliced basil leaves to the tomatoes, then drizzle with olive oil.
+4. Bake for 15-20 minutes, until the tomatoes are softened and the basil is wilted.
+5. Top with mozzarella cheese and return to the oven for another 5-10 minutes, until the cheese is melted and bubbly.
+6. Serve immediately."]
+
+------------------------------------------------------------
+Prompt 4:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- salmon
+- lemon
+- garlic
+
+Model Output:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- salmon
+- lemon
+- garlic
+- olive oil
+- salt
+
+Steps:
+1. Preheat the oven to 350°F. Line a baking sheet with parchment paper.
+2. Season the salmon fillet with salt and pepper on both sides.
+3. Place the salmon on the prepared baking sheet and drizzle with olive oil. Squeeze the juice from half a lemon over the salmon.
+4. Roast the salmon in the oven for 12-15 minutes, or until the salmon flakes easily with a fork. Serve with lemon wedges."]
+
+------------------------------------------------------------
+Prompt 5:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- pasta
+- olive oil
+- parmesan cheese
+
+Model Output:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- pasta
+- olive oil
+- parmesan cheese
+- salt
+- pepper
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Drain the pasta and toss it in the garlic oil before serving.
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+- 1/4 cup flour
+- 1/4 cup milk
+- 1/4 cup butter
+- 1/4 cup sugar
+- 1/4 cup cocoa powder
+- 1/4 cup chocolate chips
+- 1/4 cup marshmallows
+- 1/4 cup nuts (optional)
+- 1/4 cup coconut (optional)
+- 1/4 cup sprinkles (optional)
+
+Steps:
+1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.
+2. In a large bowl, whisk together flour, milk, butter, sugar, cocoa powder, chocolate chips, marshmallows, nuts, and coconut (if using). Pour mixture into prepared baking dish.
+3. Bake in preheated oven for 25 minutes. Let cool for 10 minutes before cutting into squares. Serve warm or cold."]
+
+------------------------------------------------------------

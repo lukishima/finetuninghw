@@ -1,0 +1,35 @@
+Prompt 1:
+Write a recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Directions: ['Season chicken with salt and pepper.", "Place in baking dish.", "Add rice and broccoli.", "Pour soup over all.", "Bake at 350\u00b0 for 1 hour."]
+
+------------------------------------------------------------
+Prompt 2:
+Write a recipe using the following ingredients: ['flour', 'sugar', 'butter']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['flour', 'sugar', 'butter']. Directions: ['Combine flour and sugar; cut in butter with pastry blender until mixture resembles coarse crumbs. Press mixture into ungreased 9-inch square pan. Bake at 350\u00b0 for 20 minutes. Cool on wire rack."]
+
+------------------------------------------------------------
+Prompt 3:
+Write a recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Directions: ['Preheat oven to 350 degrees F.", "Slice the tomato and basil leaves very thinly.", "Place a slice of tomato on each slice of mozzarella.", "Place the tomato and mozzarella on a baking sheet and bake for 10 minutes.", "Serve with crusty bread."]
+
+------------------------------------------------------------
+Prompt 4:
+Write a recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Directions: ['Place salmon in a glass baking dish. Season with lemon pepper, garlic salt, and lemon juice. Bake at 350 degrees F (175 degrees C) for 20 to 25 minutes, or until fish flakes easily with a fork."]
+
+------------------------------------------------------------
+Prompt 5:
+Write a recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Directions: ['Cook pasta according to package directions. Drain. In a large bowl, combine pasta and remaining ingredients; toss to coat. Serve warm."]
+
+------------------------------------------------------------

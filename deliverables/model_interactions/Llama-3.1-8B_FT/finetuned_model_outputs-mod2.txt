@@ -1,0 +1,35 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Preheat oven to 375\u00b0F.", "2. Prepare chicken by rinsing and patting dry. Place chicken in a baking dish.", "3. Combine rice and broccoli in a bowl. Spoon rice mixture into chicken cavity.", "4. Bake for 1 hour and 15 minutes or until chicken is tender and juices run clear."]
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Preheat oven to 350 degrees. 2. Grease 9-inch pie pan. 3. Mix flour and sugar. 4. Cut in butter until mixture is crumbly. 5. Press into pie pan. 6. Bake for 15 minutes. 7. Cool. 8. Fill with desired filling. 9. Bake 40 minutes at 350 degrees. 10. Cool before serving. End recipe: 11. Enjoy!"]
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. 2. 3. End recipe.
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Wash salmon fillets. 2. Pat dry with paper towels. 3. Place in a baking dish. 4. Squeeze the juice from the lemon over the fish. 5. Sprinkle with garlic powder. 6. Bake at 350 degrees F for 20 minutes or until fish flakes easily with a fork."]
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Cook pasta according to package directions. Drain and rinse under cold water. 2. In a large bowl, combine pasta, oil, cheese, and pepper. Toss to coat. Serve immediately. End recipe."]
+
+------------------------------------------------------------
