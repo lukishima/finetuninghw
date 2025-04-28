@@ -1,0 +1,62 @@
+Manual Setup Instructions for RecipeNLG
+=======================================
+
+This guide explains how to manually download the RecipeNLG dataset, extract it, upload it to Odo, and convert it into HuggingFace format for further use.
+
+Step 1: Download the Dataset
+----------------------------
+1. Visit the official RecipeNLG website:
+   https://recipenlg.cs.put.poznan.pl/
+2. Click the "Download" button and accept the license terms.
+3. A file named `dataset.zip` will be saved to your Downloads folder.
+
+Step 2: Extract the Dataset Locally
+-----------------------------------
+In your terminal, unzip the downloaded file:
+
+    unzip dataset.zip
+
+You will see a file named:
+
+    full_dataset.csv
+
+Step 3: Upload the Dataset to Odo
+---------------------------------
+Transfer the `full_dataset.csv` file to your project directory on Odo:
+
+    scp /path/to/full_dataset.csv luki@login1.odo.olcf.ornl.gov:/gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/data/
+
+(Be sure to replace `/path/to/full_dataset.csv` with the actual path to your local file and username 
+and `/gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/data/` with actual path where you want to save the data)
+
+Step 4: Convert to HuggingFace Format on Odo
+--------------------------------------------
+Once logged into Odo, run the `download_and_convert.py` file in `luki/FinetuningHW/scripts/`
+
+or run the following Python commands:
+
+    from datasets import load_dataset
+
+    dataset = load_dataset("csv", data_files="../data/recipe_nlg/full_dataset.csv")
+    dataset.save_to_disk("../data/hf_dataset")
+
+This converts the CSV into HuggingFace's binary format and stores it in `../data/hf_dataset`.
+
+Step 5: Load for Use in Scripts
+-------------------------------
+In your training or data prep scripts, load the dataset using:
+
+    from datasets import load_from_disk
+
+    dataset = load_from_disk("../data/hf_dataset")
+    train_data = dataset["train"]
+
+You're now ready to extract examples or begin finetuning.
+
+Step 6: Clone GitHub Repos for models to local device (if needed)
+-------------------------------
+If you are unable to access https://huggingface.co to directly download the model, you can copy the repository using the bash commands:
+
+python3 -m pip install git-lfs
+cd path/to/models
+git clone <link to model>
