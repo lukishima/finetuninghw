@@ -1,0 +1,35 @@
+Prompt 1:
+Write a recipe using the following ingredients: ["brown sugar",  "milk",  "vanilla",  "nuts",  "butter",  "bite size shredded rice biscuits"]. Directions:
+
+Model Output:
+1. Melt butter in a sauce pan. 2. Add brown sugar and stir until dissolved. 3. Add milk and vanilla. 4. Add nuts and rice biscuits. 5. Bring to a boil. 6. Simmer for 5 minutes. 7. Serve warm.
+
+------------------------------------------------------------
+Prompt 2:
+Write a recipe using the following ingredients: ["beef",  "chicken breasts",  "cream of mushroom soup",  "sour cream"]. Directions:
+
+Model Output:
+1. Combine the ingredients in a large pot. 2. Bring to a boil. 3. Reduce heat and simmer for 30 minutes. 4. Serve with rice or noodles. 5. Enjoy!
+
+------------------------------------------------------------
+Prompt 3:
+Write a recipe using the following ingredients: ["frozen corn",  "cream cheese",  "butter",  "garlic powder",  "salt",  "pepper"]. Directions:
+
+Model Output:
+Use a for loop to iterate over the array and print each item in the array on a new line. Use a variable to keep track of the index of the current item in the array. Use a variable to keep track of the total number of items in the array. Use a variable to keep track of the current item in the array. Use a variable to keep track of the total number of items in the array. Use a variable to keep track of the current item in the array. Use a variable to keep track of the total number of items in the array. Use a variable to keep track of the current item in the array. Use a variable to keep track of the total number of items in the array. Use a variable to keep track of the current item in the array. Use a variable to keep track of the total number of items in the array. Use a variable to keep track of the current item in the array. Use a variable to keep track of the total number of items
+
+------------------------------------------------------------
+Prompt 4:
+Write a recipe using the following ingredients: ["chicken",  "chicken gravy",  "cream of mushroom soup",  "shredded cheese"]. Directions:
+
+Model Output:
+1.  Place the chicken in a baking dish. 2.  Mix the chicken gravy and cream of mushroom soup together and pour over the chicken. 3.  Sprinkle the shredded cheese on top of the chicken. 4.  Bake in the oven at 350 degrees for 30 minutes or until the chicken is cooked through and the cheese is melted and bubbly. Enjoy!
+
+------------------------------------------------------------
+Prompt 5:
+Write a recipe using the following ingredients: ["peanut butter",  "graham cracker crumbs",  "butter",  "powdered sugar",  "chocolate chips"]. Directions:
+
+Model Output:
+Mix the peanut butter and butter together. Add the graham cracker crumbs. Mix in the powdered sugar. Add the chocolate chips. Bake in the oven at 350 degrees for 20 minutes.
+
+------------------------------------------------------------

@@ -1,0 +1,45 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ["brown sugar",  "milk",  "vanilla",  "nuts",  "butter",  "bite size shredded rice biscuits"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ["beef",  "chicken breasts",  "cream of mushroom soup",  "sour cream"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ["frozen corn",  "cream cheese",  "butter",  "garlic powder",  "salt",  "pepper"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ["chicken",  "chicken gravy",  "cream of mushroom soup",  "shredded cheese"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ["peanut butter",  "graham cracker crumbs",  "butter",  "powdered sugar",  "chocolate chips"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+
+
+------------------------------------------------------------

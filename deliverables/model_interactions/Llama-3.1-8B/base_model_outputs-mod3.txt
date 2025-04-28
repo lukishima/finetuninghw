@@ -1,0 +1,205 @@
+Prompt 1:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- ["brown sugar"
+-  "milk"
+-  "vanilla"
+-  "nuts"
+-  "butter"
+-  "bite size shredded rice biscuits"]
+
+Model Output:
+Steps:
+1. In a large saucepan, melt the butter over medium heat.
+2. Add the brown sugar and stir until it is dissolved.
+3. Add the milk and stir until it is heated through.
+4. Add the vanilla and stir until it is incorporated.
+5. Add the nuts and stir until they are coated in the mixture.
+6. Add the bite size shredded rice biscuits and stir until they are coated in the mixture.
+7. Serve immediately.
+
+------------------------------------------------------------
+Prompt 2:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- ["beef"
+-  "chicken breasts"
+-  "cream of mushroom soup"
+-  "sour cream"]
+
+Model Output:
+Steps:
+1. Preheat oven to 350°F (175°C).
+2. In a large bowl, mix together the beef, chicken breasts, cream of mushroom soup, and sour cream.
+3. Spread the mixture into a 9x13 inch baking dish.
+4. Bake for 45 minutes or until the beef is cooked through and the chicken is no longer pink in the center.
+5. Serve hot with a side of vegetables.
+
+------------------------------------------------------------
+Prompt 3:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- ["frozen corn"
+-  "cream cheese"
+-  "butter"
+-  "garlic powder"
+-  "salt"
+-  "pepper"]
+
+Model Output:
+Steps:
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a large bowl, combine the corn, cream cheese, butter, garlic powder, salt, and pepper.
+3. Spoon the mixture into a 9x13 inch baking dish.
+4. Bake for 30 minutes, or until golden brown and bubbly.
+5. Serve with tortilla chips or crackers.
+
+---
+
+Begin Recipe:
+
+------------------------------------------------------------
+Prompt 4:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- ["chicken"
+-  "chicken gravy"
+-  "cream of mushroom soup"
+-  "shredded cheese"]
+
+Model Output:
+Steps:
+1. Preheat the oven to 375 degrees F (190 degrees C).
+2. In a large bowl, mix together the chicken, gravy, cream of mushroom soup, and shredded cheese.
+3. Transfer the mixture to a baking dish and bake for 30 minutes, or until the chicken is cooked through.
+4. Serve hot.
+
+------------------------------------------------------------
+Prompt 5:
+
+You are a world-class chef. Given a list of ingredients, you will write a detailed recipe in the following format:
+
+Example:
+Ingredients:
+- 1 cup spaghetti pasta
+- 1/2 tablespoon garlic, minced
+- 2 tablespoons olive oil
+- 1/4 teaspoon salt
+
+Steps:
+1. Bring a pot of water to a boil over medium-high heat.
+2. Add salt to the water, then add the pasta. Cook until al dente according to package instructions.
+3. Meanwhile, heat olive oil in a pan and sauté the minced garlic until fragrant.
+4. Drain the pasta and toss it in the garlic oil before serving.
+
+---
+
+Now, using the provided ingredients, write a new recipe following the same format.
+Do not repeat the input prompt in your output.
+Begin Recipe:
+
+
+Ingredients:
+- ["peanut butter"
+-  "graham cracker crumbs"
+-  "butter"
+-  "powdered sugar"
+-  "chocolate chips"]
+
+Model Output:
+Steps:
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a large bowl, mix together the graham cracker crumbs, melted butter, and powdered sugar. Press the mixture into the bottom of a 9x13 inch baking pan.
+3. In a medium bowl, mix together the peanut butter and butter. Spread the mixture over the graham cracker crust.
+4. In a small saucepan, melt the chocolate chips and butter over low heat. Spread the chocolate mixture over the peanut butter layer.
+5. Refrigerate for at least 2 hours before cutting into squares.
+
+------------------------------------------------------------

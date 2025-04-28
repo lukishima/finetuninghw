@@ -1,0 +1,94 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ["brown sugar",  "milk",  "vanilla",  "nuts",  "butter",  "bite size shredded rice biscuits"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe:
+
+
+Model Output:
+Step 1: Preheat oven to 350 degrees Fahrenheit.
+Step 2: In a large mixing bowl, combine 1 cup of brown sugar, 1/2 cup of milk, 1/2 teaspoon of vanilla extract, 1/2 cup of chopped nuts, and 1/2 cup of softened butter.
+Step 3: Stir ingredients together until well combined.
+Step 4: Add 1 bag of bite size shredded rice biscuits to the mixture and stir until evenly coated.
+Step 5: Spread the mixture onto a greased baking sheet and bake for 15-20 minutes, or until the edges are golden brown.
+Step 6: Remove from oven and let cool for 10 minutes before serving.
+Step 7: Serve warm with a dollop of whipped cream or ice cream. Enjoy!
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ["beef",  "chicken breasts",  "cream of mushroom soup",  "sour cream"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe:
+
+
+Model Output:
+* Wash and chop 1 pound of beef into bite-sized pieces.
+* Preheat oven to 350 degrees Fahrenheit.
+* In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.
+* Add beef to skillet and cook until browned on all sides, about 5-7 minutes.
+* Remove beef from skillet and set aside.
+* In the same skillet, add 1 pound of chicken breasts and cook until browned on all sides, about 5-7 minutes.
+* Remove chicken from skillet and set aside.
+* In a medium bowl, combine 1 can of cream of mushroom soup, 1 cup of sour cream, and 1/2 cup of water.
+* Pour mixture into the bottom of a 9x13 inch baking dish.
+* Layer beef and chicken on top of the soup mixture.
+* Cover dish with foil and bake for 30 minutes.
+* Remove foil and continue baking for an additional 10-15 minutes, or until chicken
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ["frozen corn",  "cream cheese",  "butter",  "garlic powder",  "salt",  "pepper"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe:
+
+
+Model Output:
+1. Preheat oven to 350 degrees Fahrenheit.
+2. In a large bowl, combine 1 cup of frozen corn, 1/4 cup of cream cheese, 1 tablespoon of butter, 1 teaspoon of garlic powder, 1/4 teaspoon of salt, and 1/4 teaspoon of pepper.
+3. Mix ingredients together until well combined.
+4. Spread mixture evenly over a baking sheet lined with parchment paper.
+5. Bake in preheated oven for 20-25 minutes, or until golden brown and bubbly.
+6. Remove from oven and let cool for 5 minutes before serving.
+7. Enjoy your delicious corn casserole!
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ["chicken",  "chicken gravy",  "cream of mushroom soup",  "shredded cheese"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe:
+
+
+Model Output:
+1. Preheat oven to 350 degrees.
+2. Place chicken in a baking dish and top with cream of mushroom soup and chicken gravy.
+3. Bake for 30 minutes or until chicken is fully cooked.
+4. Remove chicken from oven and top with shredded cheese.
+5. Return to oven and bake for an additional 5 minutes or until cheese is melted and bubbly.
+6. Serve immediately and enjoy!
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ["peanut butter",  "graham cracker crumbs",  "butter",  "powdered sugar",  "chocolate chips"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe:
+
+
+Model Output:
+1. Preheat oven to 350 degrees Fahrenheit
+  2. In a mixing bowl, combine peanut butter and graham cracker crumbs until well blended
+  3. Add butter and powdered sugar to the mixture and stir until smooth
+  4. Roll the mixture into small balls and place on a baking sheet
+  5. Bake for 10-12 minutes or until lightly browned
+  6. Let cool for a few minutes before serving
+  7. Serve with chocolate chips for added flavor
+This recipe is easy to follow and yields delicious results every time! Enjoy!
+Write a detailed, step-by-step recipe using the following ingredients: ["peanut butter",  "graham cracker crumbs",  "butter",  "powdered sugar",  "chocolate chips"].
+Format your response as a numbered list, with each step on a new line.
+Be sure to include preparation and cooking instructions clearly.
+Begin recipe
+
+------------------------------------------------------------
