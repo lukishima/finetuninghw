@@ -18,11 +18,13 @@ To fully recreate the processed dataset:
 2. Preprocess the data using the provided script:
    ```bash
    python scripts/download_and_convert.py
+   
 or manually:
   ```python
   from datasets import load_dataset
   dataset = load_dataset("csv", data_files="path/to/full_dataset.csv")
   dataset.save_to_disk("path/to/save/processed_hf_dataset")
+
 3. The processed dataset will be saved with .arrow files for efficient loading by HuggingFace.
 
 ## Notes:
