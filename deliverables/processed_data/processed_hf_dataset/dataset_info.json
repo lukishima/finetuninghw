@@ -1,0 +1,65 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 2216245653,
+  "description": "",
+  "download_checksums": {
+    "/gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/data/full_dataset.csv": {
+      "num_bytes": 2294981083,
+      "checksum": "f376ee0bb9f99f323761abf6270d453f4eff2002c3625d04cabcf8b57dca0803"
+    }
+  },
+  "download_size": 2294981083,
+  "features": {
+    "Unnamed: 0": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "ingredients": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "directions": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "link": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "NER": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4511226736,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2216245653,
+      "num_examples": 2231142,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
