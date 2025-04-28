@@ -1,0 +1,57 @@
+
+
+===== Base Model (basic prompt) =====
+
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B/base_model_outputs.txt
+
+===== Base Model (structured prompt) =====
+
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B/base_model_outputs-mod.txt
+
+===== Base Model (highly structured prompt) =====
+
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B/base_model_outputs-mod2.txt
+
+===== Base Model (example-driven prompt) =====
+
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B/base_model_outputs-mod3.txt
+
+===== Short Fine-tuned Model (basic prompt) =====
+
+Found checkpoint directly under model folder: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT_short/checkpoint-94775
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT_short/short_finetuned_model_outputs.txt
+
+===== Short Fine-tuned Model (structured prompt) =====
+
+Found checkpoint directly under model folder: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT_short/checkpoint-94775
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT_short/short_finetuned_model_outputs-mod.txt
+
+===== Short Fine-tuned Model (highly structured prompt) =====
+
+Found checkpoint directly under model folder: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT_short/checkpoint-94775
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT_short/short_finetuned_model_outputs-mod2.txt
+
+===== Short Fine-tuned Model (example-driven prompt) =====
+
+Found checkpoint directly under model folder: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT_short/checkpoint-94775
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT_short/short_finetuned_model_outputs-mod3.txt
+
+===== Full Fine-tuned Model (latest checkpoint) =====
+
+Using model checkpoint: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT/run_20250426_105354/checkpoint-312354
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT/finetuned_model_outputs.txt
+
+===== Full Fine-tuned Model (structured prompt) =====
+
+Using model checkpoint: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT/run_20250426_105354/checkpoint-312354
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT/finetuned_model_outputs-mod.txt
+
+===== Full Fine-tuned Model (highly structured prompt) =====
+
+Using model checkpoint: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT/run_20250426_105354/checkpoint-312354
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT/finetuned_model_outputs-mod2.txt
+
+===== Full Fine-tuned Model (example-driven prompt) =====
+
+Using model checkpoint: /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/models/Llama-3.1-8B_FT/run_20250426_105354/checkpoint-312354
+Saved interaction examples to /gpfs/wolf2/olcf/trn040/scratch/luki/FinetuningHW/deliverables/model_interactions/Llama-3.1-8B_FT/finetuned_model_outputs-mod3.txt
