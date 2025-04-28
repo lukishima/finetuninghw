@@ -1,0 +1,35 @@
+Prompt 1:
+Write a recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Directions: Cut chicken into small pieces. Mix rice, broccoli and chicken. Add dressing and mix. Refrigerate overnight. Serve on lettuce leaves. Serves 10 to 12.
+
+------------------------------------------------------------
+Prompt 2:
+Write a recipe using the following ingredients: ['flour', 'sugar', 'butter']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['flour', 'sugar', 'butter']. Directions: Combine flour and sugar.", ",", "Cut in butter with pastry blender until mixture is crumbly.", "Press into bottom and up sides of a 9-inch pie pan.", "Bake at 375\u00b0 for 8 minutes."]
+
+------------------------------------------------------------
+Prompt 3:
+Write a recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Directions: Cut the tomato in half. Remove the seeds and set aside. Place the tomato on a plate and top with the basil and mozzarella. Drizzle with olive oil and balsamic vinegar. Sprinkle with salt and pepper and serve.
+
+------------------------------------------------------------
+Prompt 4:
+Write a recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Directions: Place salmon on foil lined baking sheet. Season with salt and pepper. Place lemon slices and garlic cloves on top of salmon. Place another sheet of foil on top. Bake at 350 degrees for 25 minutes or until cooked through. Serve with fresh lemon wedges and green salad.
+
+------------------------------------------------------------
+Prompt 5:
+Write a recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Directions:
+
+Model Output:
+Write a recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Directions: Cook pasta according to package directions. Drain. Return pasta to pan and toss with olive oil. Add parmesan cheese and toss. Serve immediately.
+
+------------------------------------------------------------

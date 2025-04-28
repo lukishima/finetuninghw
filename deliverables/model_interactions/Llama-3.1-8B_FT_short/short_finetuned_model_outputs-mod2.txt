@@ -1,0 +1,35 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Wash the chicken. 2. Cut chicken into pieces. 3. Cook rice. 4. Cut broccoli into small pieces. 5. Cook chicken. 6. Combine rice and chicken. 7. Add broccoli. 8. Serve and enjoy!"]
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Preheat oven to 350 degrees F (175 degrees C). 2. Grease and flour a 9x13 inch pan. 3. In a large bowl, combine the flour, sugar and butter. Mix until crumbly. 4. Spread into the prepared pan. 5. Bake for 20 to 25 minutes in the preheated oven, or until lightly browned. 6. Cool before cutting into bars. 7. Store in an airtight container.
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Preheat oven to 350 degrees F (175 degrees C). 2. Slice tomatoes into 1/2 inch slices. Arrange in a single layer in a baking dish. 3. Top with basil and mozzarella. 4. Bake uncovered in preheated oven for 15 minutes, or until cheese is melted and bubbly. 5. Serve immediately. End recipe.
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Preheat oven to 350\u00b0F. 2. Line a baking sheet with parchment paper. 3. Place salmon on baking sheet and bake for 15 minutes, or until fish flakes easily with a fork. 4. Remove from oven and let cool. 5. Flake salmon with a fork. 6. Place salmon in a bowl and mix with lemon juice and garlic. 7. Serve with crackers, bread, or vegetables. 8. Enjoy!"]
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Begin recipe: 1. Cook pasta according to package directions. 2. Drain pasta and return to pot. 3. Add olive oil and parmesan cheese to pot. 4. Mix until pasta is well coated. 5. Serve and enjoy! End recipe.
+
+------------------------------------------------------------

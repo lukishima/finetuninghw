@@ -1,0 +1,35 @@
+Prompt 1:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['chicken', 'rice', 'broccoli']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Be sure to include the number of servings your recipe will yield, as well as any special cooking equipment needed to prepare the recipe. Finally, be sure to include any notes or tips that will help the reader to prepare the recipe successfully.
+
+------------------------------------------------------------
+Prompt 2:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['flour', 'sugar', 'butter']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Use the following format for each step: Step 1: Preheat the oven to 350 degrees F (175 degrees C). Step 2: Combine flour, sugar, and butter in a bowl. Mix well. Step 3: Press into the bottom of a 9x13-inch baking pan. Bake in preheated oven until light golden brown, about 25 minutes. Step 4: Cool completely before using."]
+
+------------------------------------------------------------
+Prompt 3:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['tomato', 'basil', 'mozzarella']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Do not use any special formatting (e.g., bold, italics, underlining, etc.) and do not include any special characters (e.g., &, *, #, etc.) in your response. Do not use any abbreviations or acronyms. Be sure to include a title and to use complete sentences. You may use either American or metric measurements, but be sure to include both sets of measurements for each ingredient. Be sure to include the number of servings and the cooking time. Your response should be at least 250 words in length.
+
+------------------------------------------------------------
+Prompt 4:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['salmon', 'lemon', 'garlic']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. You may use the following words and phrases to help you: bake, boil, chop, dice, drain, fill, grate, juice, mix, peel, pound, slice, stir, wash, and zest."]
+
+------------------------------------------------------------
+Prompt 5:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly.
+
+Model Output:
+Write a detailed, step-by-step recipe using the following ingredients: ['pasta', 'olive oil', 'parmesan cheese']. Format your response as a numbered list, with each step on a new line. Be sure to include preparation and cooking instructions clearly. Include all necessary information, such as the number of servings, the type of pasta, and the amount of cheese used. Make sure to give the reader a clear and concise recipe that they can follow easily.
+
+------------------------------------------------------------
